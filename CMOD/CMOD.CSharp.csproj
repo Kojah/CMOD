@@ -66,10 +66,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+    <Compile Include="Assets\Scripts\Billboard.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Listener.cs" />
+    <Compile Include="Assets\Scripts\NotificationsManager.cs" />
+    <Compile Include="Assets\Scripts\PingPongMovement.cs" />
+    <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\Poster.cs" />
+    <Compile Include="Assets\Scripts\PowerUpDollar.cs" />
+=======
     <Compile Include="Assets\Scripts\Listener.cs" />
     <Compile Include="Assets\Scripts\NotificationsManager.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\Poster.cs" />
+>>>>>>> refs/remotes/origin/develop
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
